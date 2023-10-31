@@ -12,3 +12,5 @@ The project fetches real-time news data from a News API and presents it in an or
 <strong>Dynamic News Cards:</strong> News articles are presented in visually appealing cards, each displaying an image, title, source, description, and publication date.<br>
 
 Footer with Contact Information: The website includes a footer with contact details, social media links, and a dynamic copyright notice.
+## Snapshot
+![Screenshot (123)](https://github.com/codeharsharma/CodeClause_NewsWebsite/assets/92158587/bf304758-8eeb-4eef-a9af-f1790950b2fc)
